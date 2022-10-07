@@ -8,7 +8,6 @@ public class FluxoComTratamento {
             String msg = ex.getMessage();
             System.out.println("Exception " + msg);
             ex.printStackTrace();
-            FluxoComTratamento
         }
         System.out.println("Fim do main");
     }
